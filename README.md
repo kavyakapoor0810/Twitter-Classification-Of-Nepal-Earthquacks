@@ -1,5 +1,5 @@
-# Twitter-Classification-Of-Nepal-Earthquacks
-Nepal Earthquake Tweet Analysis¶
+## Twitter-Classification-Of-Nepal-Earthquacks
+
 On April 25th 2015, just before noon, Nepal experienced an earthquake of magnitude 7.8 on the moment magnitude scale. The earthquake ripped through Kathmandu valley, and a series of aftershocks leveled entire villages.
 Immediately after the earthquake, volunteers from around the world were instrumental in guiding emergency operations, using satellite imagery to identify infrastructure destruction throughout the region.
 People on the ground in Nepal were also generating tremendous amounts of information which could be of use to rescue operations, albeit less directly: on twitter. Between April 25th and May 28th, 33,610 tweets were tweeted by people in Nepal. These tweets were full of useful information, but 33,610 tweets is simply too many for a rescue operation to comb through.
